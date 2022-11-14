@@ -6,7 +6,9 @@
 # ignore ALL files in ANY directory named temp
 temp/
 
-pyvenv.cfg
+pyvenv.cfg/
+./pyvenv.cfg
+./pyvenv.cfg/
 .ipynb_checkpoints/
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,pycharm,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,pycharm,visualstudiocode
