@@ -54,7 +54,7 @@ You check this on your side. But install flask and some other packages. Use pych
 Just check it once and don't forget to import sql file on Mysql server.
 
 
-# <a href="" ><strong>Project link</strong> </a>
+# <a href="https://github.com/ShuvoSahaRoy/Journey-with-Flask-microwebframe/tree/main/flask_blog" ><strong>Project link</strong> </a>
 
 ---
 
